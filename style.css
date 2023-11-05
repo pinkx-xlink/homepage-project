@@ -62,11 +62,14 @@ works, makes img fit on desktop view.  but very blurry*/
 .card {
     border: 2px solid purple;
     min-width: 300px;
-    max-width: 480px;
+    max-width: 400px;
     min-height: 400px;
-    max-height: 600px;
     box-shadow: 1px 2px 9px;
     border-radius: 7px;
+}
+.card-title {
+    font-weight: bold;
+    border-bottom: 1px solid gray;
 }
 
 footer {
@@ -108,10 +111,7 @@ footer {
         min-height: 400px;
         padding: 3px;
     }
-    .card-title {
-        font-weight: bold;
-        border-bottom: 1px solid gray;
-    }
+    
     .card > p {
         padding: 20px;
     }
