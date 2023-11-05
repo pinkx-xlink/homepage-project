@@ -35,6 +35,12 @@ section {
     row-gap: 25px;
     gap: 10px;
 }
+/* img {
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+} 
+works, makes img fit on desktop view.  but very blurry*/
 
 .card {
     border: 2px solid purple;
