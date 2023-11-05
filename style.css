@@ -59,8 +59,7 @@ footer {
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
-        row-gap: 25px;
-        gap: 10px;
+        row-gap: 45px;
     }
     
     .card {
