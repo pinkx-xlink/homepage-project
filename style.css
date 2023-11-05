@@ -96,6 +96,11 @@ footer {
         margin-top: 50px;
     }
     
+    h3 {
+        padding: 25px;
+        font-size: xx-large;
+        font-family: "Brush Script MT";
+    }
     .work-container {
         display: flex;
         flex-wrap: wrap;
