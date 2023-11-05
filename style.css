@@ -3,6 +3,7 @@
 .work-container {
     display: flex;
 }
+
 .card {
     border: 2px solid purple;
 }
