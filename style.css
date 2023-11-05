@@ -3,6 +3,7 @@
     color: blanchedalmond;
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
 }
 
 header {
@@ -106,6 +107,9 @@ footer {
         max-width: 300px;
         min-height: 400px;
         padding: 3px;
+    }
+    .card-title {
+        font-weight: bold;
     }
     .card > p {
         padding: 20px;
