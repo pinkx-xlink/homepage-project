@@ -34,8 +34,8 @@ section {
 
 .card {
     border: 2px solid purple;
-    max-width: 400px;
-    max-height: 400px;
+    min-width: 300px;
+    min-height: 400px;
 }
 
 footer {
