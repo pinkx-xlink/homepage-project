@@ -10,18 +10,19 @@ header {
     flex-wrap: wrap;
     justify-content: center;
 }
+
 .neonText {
     color: #fff;
-    
+    font-family: "Brush Script MT";
     text-shadow: 
-    0 0 7px #fff,
-    0 0 10px #fff,
+    0 0 5px #c40808,
+    0 0 10px #bd9898,
     0 0 21px #fff,
-    0 0 42px #0fa,
+    0 0 42px rgb(43, 22, 38),
     0 0 82px #0fa,
-    0 0 92px #0fa,
-    0 0 102px #0fa,
-    0 0 151px #0fa;
+    0 0 92px rgb(212, 0, 255),
+    0 0 102px rgb(255, 0, 242),
+    0 0 151px rgb(12, 167, 115);
 }
 .name-card {
     min-width: 300px;
@@ -80,6 +81,11 @@ footer {
         color: blanchedalmond;
     }
 
+    h1 {
+        font-size: 80px;
+        display: flex;
+        flex-wrap: wrap;
+    }
     section {
         margin-top: 50px;
     }
