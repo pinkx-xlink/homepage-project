@@ -111,6 +111,9 @@ footer {
         min-height: 400px;
         padding: 3px;
     }
+    .card-title {
+        padding: 10px;
+    }
     
     .card > p {
         padding: 20px;
