@@ -36,7 +36,9 @@ section {
 .card {
     border: 2px solid purple;
     min-width: 300px;
+    max-width: 480px;
     min-height: 400px;
+    max-height: 600px;
     box-shadow: 1px 2px 9px;
     border-radius: 7px;
 }
@@ -48,8 +50,9 @@ footer {
 @media (max-width: 600px) {
     body {
         margin: 5px;
+        background-color: black;
+        color: blanchedalmond;
     }
-
 
     section {
         margin-top: 50px;
