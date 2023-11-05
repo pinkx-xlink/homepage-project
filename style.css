@@ -49,4 +49,26 @@ footer {
     body {
         margin: 5px;
     }
+
+
+    section {
+        margin-top: 50px;
+    }
+    
+    .work-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        row-gap: 25px;
+        gap: 10px;
+    }
+    
+    .card {
+        border: 2px solid purple;
+        box-shadow: 1px 2px 9px;
+        border-radius: 7px;
+    }
+    .card > p {
+        padding: 20px;
+    }
 }
