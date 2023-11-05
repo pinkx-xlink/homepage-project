@@ -24,6 +24,7 @@ section {
 
 .work-container {
     display: flex;
+    justify-content: center;
 }
 
 .card {
