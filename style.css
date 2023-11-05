@@ -30,6 +30,7 @@ section {
     flex-wrap: wrap;
     justify-content: center;
     row-gap: 25px;
+    gap: 10px;
 }
 
 .card {
@@ -42,4 +43,10 @@ section {
 
 footer {
     background-color: green;
+}
+
+@media (max-width: 600px) {
+    body {
+        margin: 5px;
+    }
 }
