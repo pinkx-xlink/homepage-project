@@ -113,6 +113,8 @@ footer {
     }
     .card-title {
         padding: 10px;
+        display: flex;
+        justify-content: center;
     }
     
     .card > p {
