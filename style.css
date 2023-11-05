@@ -7,6 +7,10 @@ header {
     max-height: 300px;
 }
 
+section {
+    margin-top: 100px;
+}
+
 .work-container {
     display: flex;
 }
