@@ -45,7 +45,7 @@ section {
 }
 
 footer {
-    background-color: green;
+    background-color: rgb(28, 37, 28);
 }
 
 @media (max-width: 600px) {
@@ -75,5 +75,9 @@ footer {
     }
     .card > p {
         padding: 20px;
+    }
+
+    footer {
+        margin-top: 150px;
     }
 }
