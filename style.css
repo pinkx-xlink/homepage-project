@@ -1,4 +1,11 @@
 
+header {
+    display: flex;
+}
+.name-card {
+    max-width: 300px;
+    max-height: 300px;
+}
 
 .work-container {
     display: flex;
