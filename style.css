@@ -1,11 +1,12 @@
 * {
-    background-color: black;
     color: blanchedalmond;
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
 }
 
+body {
+    background-color: black;
+}
 header {
     display: flex;
     flex-wrap: wrap;
@@ -86,7 +87,6 @@ footer {
 @media (max-width: 600px) {
     body {
         margin: 5px;
-        background-color: black;
         color: blanchedalmond;
     }
 
